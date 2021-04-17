@@ -15,6 +15,7 @@ div>label{
     height: 220px;
     object-fit: fill;
     margin: 20px;
+    
 }
 .imagediv{
     flex-wrap: wrap;
