@@ -1,0 +1,25 @@
+.files{
+    margin: 20px;
+}
+
+.submitbtn{
+    margin: 20px;
+}
+
+div>label{
+    margin: 10px;
+    color: rgb(204, 202, 202);
+}
+.images{
+    width: 320px;
+    height: 220px;
+    object-fit: fill;
+    margin: 20px;
+}
+.imagediv{
+    flex-wrap: wrap;
+}
+
+Button{
+    margin: 15px;
+}
